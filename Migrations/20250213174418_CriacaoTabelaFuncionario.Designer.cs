@@ -12,8 +12,8 @@ using TrilhaNetAzureDesafio.Context;
 namespace trilha_net_azure_desafio.Migrations
 {
     [DbContext(typeof(RHContext))]
-    [Migration("20220623031755_Initial")]
-    partial class Initial
+    [Migration("20250213174418_CriacaoTabelaFuncionario")]
+    partial class CriacaoTabelaFuncionario
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

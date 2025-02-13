@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace trilha_net_azure_desafio.Migrations
 {
-    public partial class Initial : Migration
+    public partial class CriacaoTabelaFuncionario : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
